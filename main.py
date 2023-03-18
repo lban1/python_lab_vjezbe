@@ -20,5 +20,3 @@ godine = input()
 # TODO ime i prezime ispišite u navodnim znakovima
 
 print(f"Korisnik : ",'"', ime, " ", prezime, '"',  "", godine, end='!')
-
-print('Kraj')
